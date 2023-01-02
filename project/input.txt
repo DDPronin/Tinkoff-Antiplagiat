@@ -1,0 +1,3 @@
+D:/DDPronin/СтажСобес/Тинькофф/plagiat/plagiat1/auto.py D:/DDPronin/СтажСобес/Тинькофф/plagiat/plagiat1/auto.py
+D:/DDPronin/СтажСобес/Тинькофф/plagiat/plagiat1/auto.py D:/DDPronin/СтажСобес/Тинькофф/plagiat/plagiat2/cnn.py
+D:/DDPronin/СтажСобес/Тинькофф/plagiat/plagiat1/config.py D:/DDPronin/СтажСобес/Тинькофф/plagiat/plagiat2/config.py
