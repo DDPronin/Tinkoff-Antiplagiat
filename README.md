@@ -1,5 +1,5 @@
 # Tinkoff-Antiplagiat
- In this repository you will find the solution to the programming problem for the ML Spring'23 Entrance Exam 
+ In this repository you can find the solution to the programming problem for the ML Spring'23 Entrance Exam 
  
  plagiat - папка с программами, которые проверяюся на антиплагиат\
      - 1) files - исходные программы\
