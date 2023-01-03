@@ -8,7 +8,7 @@ def make_ast_list(tree):
     return [node.__class__.__name__ for node in ast.walk(tree)]
 
 
-def make_ngrams(ast_list, n=3):
+def make_ngrams(ast_list, n=2):
     if n < 1:
         raise ValueError('length of ngram should be a positive number')
     ngrams = []

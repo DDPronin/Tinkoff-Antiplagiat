@@ -1,0 +1,45 @@
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check1.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check1_res_n=3.txt
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check2.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check2_res_n=3.txt
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check1.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check1_res_n=3.txt
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check2.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check2_res_n=3.txt
+
+
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check1.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check1_res_n=1.txt
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check2.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check2_res_n=1.txt
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check1.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check1_res_n=1.txt
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check2.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check2_res_n=1.txt  
+
+
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check1.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check1_res_n=2.txt
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check2.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check2_res_n=2.txt
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check1.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check1_res_n=2.txt
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check2.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check2_res_n=2.txt  
+
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check1.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check1_res_n=4.txt
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check2.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check2_res_n=4.txt
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check1.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check1_res_n=4.txt
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check2.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check2_res_n=4.txt 
+
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check1.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check1_res_n=5.txt
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check2.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/noPlag_check2_res_n=5.txt
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check1.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check1_res_n=5.txt
+
+D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check2.txt D:/DDPronin/СтажСобес/Тинькофф/Tinkoff-Antiplagiat/plag_check2_res_n=5.txt  
