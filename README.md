@@ -1,4 +1,4 @@
-# Tinkoff-Antiplagiat
+# Tinkoff-exam
 
  Структура:
  
